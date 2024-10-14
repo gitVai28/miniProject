@@ -1,0 +1,20 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+*.env
+
+# Logs
+logs
+*.log
+
+# Lock files
+package-lock.json
+
+# Vercel configuration (optional if you don't want to push it)
+vercel.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
